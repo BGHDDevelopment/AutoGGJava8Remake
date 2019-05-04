@@ -1,6 +1,12 @@
-[
-  {
-    "modid": "autogg",
-    "name": "AutoGG"
-  }
-]
+[{
+  "modid": "AutoGG Java 8 Remake",
+  "name": "AutoGG Java 8 Remake",
+  "description": "Remade Hypixel AutoGG mod that supports Java 8.",
+  "version": "0.1",
+  "mcversion": "1.8.9",
+  "logoFile": "",
+  "url": "https://bghddevelopment.com",
+  "updateJSON": "https://bghddevelopment.com/mods",
+  "authorList": ["BGHDDevelopment"],
+  "credits": "2pi.pw, boomboompower"
+}]
